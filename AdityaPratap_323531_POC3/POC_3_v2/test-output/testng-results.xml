@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8741" started-at="2019-08-11T15:44:41Z" finished-at="2019-08-11T15:44:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8741" started-at="2019-08-11T15:44:41Z" finished-at="2019-08-11T15:44:49Z">
+      <class name="TESTING_TESTS.testRunner">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:TESTING_TESTS.testRunner@6ea12c19]" name="launchBrowser" is-config="true" duration-ms="7150" started-at="2019-08-11T21:14:41Z" finished-at="2019-08-11T21:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifySearchProds()[pri:1, instance:TESTING_TESTS.testRunner@6ea12c19]" name="verifySearchProds" duration-ms="48" started-at="2019-08-11T21:14:48Z" finished-at="2019-08-11T21:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchProds -->
+        <test-method status="PASS" signature="verifyCategories()[pri:2, instance:TESTING_TESTS.testRunner@6ea12c19]" name="verifyCategories" duration-ms="854" started-at="2019-08-11T21:14:48Z" finished-at="2019-08-11T21:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCategories -->
+        <test-method status="PASS" signature="verifyNoOfProds()[pri:3, instance:TESTING_TESTS.testRunner@6ea12c19]" name="verifyNoOfProds" duration-ms="146" started-at="2019-08-11T21:14:49Z" finished-at="2019-08-11T21:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNoOfProds -->
+        <test-method status="PASS" signature="verifyProdsList()[pri:4, instance:TESTING_TESTS.testRunner@6ea12c19]" name="verifyProdsList" duration-ms="525" started-at="2019-08-11T21:14:49Z" finished-at="2019-08-11T21:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProdsList -->
+      </class> <!-- TESTING_TESTS.testRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

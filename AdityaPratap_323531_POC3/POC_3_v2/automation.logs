@@ -1,0 +1,55 @@
+Aug 11, 2019 9:14:48 PM TESTING_TESTS.testRunner create_log
+INFO: Method verifySearchProds is invoked 
+TC_TD: TESTING_TESTS.testRunner#verifySearchProds
+ Expected Result: Search Products
+ Actual Result: Search Products
+ Test Result: PASS
+
+Aug 11, 2019 9:14:48 PM TESTING_TESTS.testRunner create_log
+INFO: Method verifyCategories is invoked 
+TC_TD: TESTING_TESTS.testRunner#verifyCategories
+ Expected Result: Categories
+ Actual Result: Categories
+ Test Result: PASS
+
+Aug 11, 2019 9:14:49 PM TESTING_TESTS.testRunner create_log
+INFO: Method verifyNoOfProds is invoked 
+TC_TD: TESTING_TESTS.testRunner#verifyNoOfProds
+ Expected Result: 5
+ Actual Result: 5
+ Test Result: PASS
+
+Aug 11, 2019 9:14:49 PM TESTING_TESTS.testRunner create_log
+INFO: Method verifyProdsList is invoked 
+TC_TD: TESTING_TESTS.testRunner#verifyProdsList
+ Expected Result: Web Database Development,$39.99
+ Actual Result: Web Database Development,$39.99
+ Test Result: PASS
+
+Aug 11, 2019 9:14:49 PM TESTING_TESTS.testRunner create_log
+INFO: Method verifyProdsList is invoked 
+TC_TD: TESTING_TESTS.testRunner#verifyProdsList
+ Expected Result: MySQL,$39.99
+ Actual Result: MySQL,$39.99
+ Test Result: PASS
+
+Aug 11, 2019 9:14:49 PM TESTING_TESTS.testRunner create_log
+INFO: Method verifyProdsList is invoked 
+TC_TD: TESTING_TESTS.testRunner#verifyProdsList
+ Expected Result: MySQL and mSQL,$27.96
+ Actual Result: MySQL and mSQL,$27.96
+ Test Result: PASS
+
+Aug 11, 2019 9:14:49 PM TESTING_TESTS.testRunner create_log
+INFO: Method verifyProdsList is invoked 
+TC_TD: TESTING_TESTS.testRunner#verifyProdsList
+ Expected Result: Beginning ASP Databases,$39.99
+ Actual Result: Beginning ASP Databases,$39.99
+ Test Result: PASS
+
+Aug 11, 2019 9:14:49 PM TESTING_TESTS.testRunner create_log
+INFO: Method verifyProdsList is invoked 
+TC_TD: TESTING_TESTS.testRunner#verifyProdsList
+ Expected Result: Oracle8i Web Development,$41.99
+ Actual Result: Oracle8i Web Development,$41.99
+ Test Result: PASS
